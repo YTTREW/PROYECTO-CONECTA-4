@@ -1,0 +1,7 @@
+#Lista de Jugadores:
+Alice Smith 1 1
+Bob Johnson 0 1
+
+#Matriz de competición:
+- 1 
+0 - 

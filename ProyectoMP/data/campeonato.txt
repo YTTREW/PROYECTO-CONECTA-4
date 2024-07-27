@@ -1,0 +1,11 @@
+#Lista de Jugadores:
+PEDRO LOPEZ 1 2
+SARA BARA 1 2
+OLGA LOPEZ 0 0
+ANA PEREZ 0 0
+
+#Matriz de competición:
+- 1 0 0 
+1 - 0 0 
+0 0 - 0 
+0 0 0 - 

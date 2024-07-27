@@ -1,0 +1,12 @@
+#partida conecta N
+#Ids de jugadores: 
+1 2
+#Turno del jugador: 2
+#Tablero: 
+#Tamaño: 5
+#N: 4
+0 0 0 0 0
+1 0 0 0 1
+2 1 0 0 2
+1 2 1 0 1
+2 2 1 1 1

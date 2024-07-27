@@ -1,0 +1,12 @@
+#Fichero de configuracion de conectaN
+NUEVAPARTIDA = no
+FICHEROCAMPEONATO = campeonato.txt
+JUGADORESID = 1 2
+TAM = 7
+NTWIN = 4
+JUGADORES = 4
+PEDRO LOPEZ
+SARA BARA
+OLGA LOPEZ
+ANA PEREZ
+
