@@ -77,7 +77,13 @@ Para compilar y ejecutar el programa, sigue estos pasos:
 
 ```plaintext
 # config.txt
-jugadores_fichero=jugadores.dat
-nuevo_campeonato=1
-jugador1=Alice
-jugador2=Bob
+MATRIZ JUGADOR X JUGADOR
+- 1 0 0
+0 - 0 0
+0 0 - 0
+0 0 0 -
+RANKING DE JUGADORES
+Ramírez, Pedro 1.000000
+Morente, Pepe 0.000000
+López, Matilde 0.000000
+Jiménez, Ana 0.000000
